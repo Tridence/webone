@@ -12,7 +12,7 @@ The following tools help make easier to work with sample code.
 
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
 
-[Download the ZIP from this location]().
+[Download the ZIP from this location](https://github.com/Tridence/webone/archive/refs/heads/main.zip).
 
 - Once the files are on your machine, open the _html-css-javascript-getting-started_ folder in [Visual Studio Code](https://code.visualstudio.com/).
 
@@ -21,5 +21,7 @@ If you installed git you can clone the code to your machine, or download a ZIP o
 ## Resources
 
 A list of links to resources used throughout this course is available on the [Resources](resources.md) page.
-# webone
+
+
+## @2021; Brian Wanjala
 
