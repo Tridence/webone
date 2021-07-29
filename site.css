@@ -60,6 +60,10 @@ nav > ul> li{
     article{
         width: 75%;
     }
+    .columns{
+        display:flex
+    }
+
 
 
     @media only screen and (min-width: 768px){
@@ -69,7 +73,21 @@ nav > ul> li{
         aside{
             margin: left;
         }
-        
+        .columns-desktop{
+            display: flex;
+        }
     }
 
+
+/* PIES*/
+.pie{
+    width:200px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #fff;
+    border: solid 1px #ccc;
+    }
+.pie img{
+    width: 100%;
+}
 
