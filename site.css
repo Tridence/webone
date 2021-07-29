@@ -89,5 +89,24 @@ nav > ul> li{
     }
 .pie img{
     width: 100%;
+    }
+.pie .title{
+    width: 100%;
+    }
+.pie .columns{
+    width: 100%;
+}
+.pie .price{
+    text-align: right;
+}
+
+.pie .columns div {
+    width: 50%;
+}
+.pie button {
+    background-color: #f6aeae;
+    padding: 10px;
+    border: solid 1px #f6aeae;
+    color: #fff;
 }
 
